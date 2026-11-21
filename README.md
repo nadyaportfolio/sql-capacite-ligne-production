@@ -1,4 +1,4 @@
-# Capacité d'une ligne de production – SQL
+# Capacité d'une ligne de production
 
 **Outil** : SQL (SQLite) · **Projet 8**
 
